@@ -1,0 +1,25 @@
+Use media queries at a 768px breakpoint
+ - Good!
+As a user changes the size of a browser window:
+
+Content remains in appropriate divs
+ - Good!
+Content remains visible to the user
+ - Good job on the landing page! In the blog section it looks like some elements still have a pixel width instead of percentage width, which is causing some problems.
+Fonts change size appropriately
+ - Good!
+Margins and padding change size appropriately
+ - Good!
+Content does not overlap
+ - Good!
+In the blog section, the two-column layout changes to a single-column layout when appropriate
+ - Good!
+
+Additional Comments:
+ - Good job! The landing page looks great! Content resizes appropriately and everything stays readable.
+
+ - On the blog page your blog posts section stays at 700 px, which causes some problems on smaller displays. This would look better if it were switched to a percentage based width.
+ 
+ - Nice work adding multiple media queries to handle multiple screens sizes!
+
+ - The hamburger menu on the landing page is a great touch!
