@@ -1,0 +1,12 @@
+Use at least three different types of HTML5 form elements: input, textarea, select, radio button, dropdown, checkbox
+  -Good!
+
+Style forms lightly using CSS
+  -Good!
+
+
+Additional Comments:
+
+Your form on your final project is looking good! I am looking forward to seeing the site once it's done!
+
+(I'm adding this file to the HW7 repo since I don't have write access to your final project repo.)
